@@ -1,5 +1,5 @@
 # Requirements
-* Tools
+## Tools
     - Vagrant with Virtualbox
     - Python 2.7
     - Postgres 9.1 or higher
