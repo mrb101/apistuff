@@ -1,11 +1,11 @@
 # Requirements
 * Tools
-- Vagrant with Virtualbox
-- Python 2.7
-- Postgres 9.1 or higher
-- Virtualenv to manage Python enviernment
-- git
-- The Vagrant box (Contains all of these along with the application)
+    - Vagrant with Virtualbox
+    - Python 2.7
+    - Postgres 9.1 or higher
+    - Virtualenv to manage Python enviernment
+    - git
+    - The Vagrant box (Contains all of these along with the application)
 
 # How to run the app ?
 - Run the Box with Vagrant
